@@ -12,6 +12,7 @@
         <module>algorithm-practice</module>
         <module>coding-interview</module>
         <module>sword-to-offer</module>
+        <module>leetcode</module>
     </modules>
 
 
