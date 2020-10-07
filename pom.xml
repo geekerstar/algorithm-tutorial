@@ -13,6 +13,7 @@
         <module>coding-interview</module>
         <module>sword-to-offer</module>
         <module>leetcode</module>
+        <module>dynamic-programming</module>
     </modules>
 
 
